@@ -5,7 +5,7 @@ Created using React and following [this figma file](https://www.figma.com/file/4
 The project uses the basic concepts learned in the scrimba's react course, made from scratch using the `npx create-react-app` command
 
 ### Run it with `npm start`
-
+If you are running for the first time run ```npm install``` first
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
